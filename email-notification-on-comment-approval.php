@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Email Notification On Comment Approval
-Plugin URI: http://www.thewebexpert.in
+Plugin URI: http://wordpress.org/extend/plugins/email-notification-on-comment-approval/
 Description: This Plugin Notifies a comment author by email on approval of his/her comment.
 Author: Piyush Ranjan
 Version: 0.1
